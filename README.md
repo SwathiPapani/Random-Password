@@ -1,14 +1,14 @@
 # Random-Password-Generator
 
-This is a simple Random Password Generator built using HTML, CSS, and JavaScript. It allows users to generate secure and random passwords with customizable options.
+This is a simple Random Password Generator built using *HTML, CSS, and JavaScript*. It allows users to generate secure and random passwords with customizable options.
 
-Technologies Used
+## Technologies Used
 
-HTML: Structure of the webpage
-CSS: Styling and responsive design
-JavaScript: Password generation logic
+- *HTML* – Structure of the form  
+- *CSS* – Styling and responsiveness  
+- *JavaScript* – Form validation and interactivity 
 
-How to Use
+## How to Use
 
 1. Open the project in a web browser.
 2. Set the desired password length.
